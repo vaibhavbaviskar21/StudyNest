@@ -16,6 +16,7 @@ function scanContributions() {
     const yearPath = path.join(baseDir, year);
     if (!fs.existsSync(yearPath)) return;
     
+<<<<<<< HEAD
     // Get all semester folders (or subjects for Extras)
     const semesters = fs.readdirSync(yearPath);
     
@@ -36,12 +37,27 @@ function scanContributions() {
           }
         });
       }
+=======
+    // Get all subject folders
+    const subjects = fs.readdirSync(yearPath);
+    
+    subjects.forEach(subject => {
+      const subjectPath = path.join(yearPath, subject);
+      if (!fs.statSync(subjectPath).isDirectory()) return;
+      
+      // Scan README.md in subject folder
+      scanDirectory(subjectPath, year, subject);
+>>>>>>> f47f141c0e452837944e173a91fa879927ba5394
     });
   });
 }
 
 // Recursively scan directories for contributor mentions
+<<<<<<< HEAD
 function scanDirectoryRecursive(dir, year, subject) {
+=======
+function scanDirectory(dir, year, subject) {
+>>>>>>> f47f141c0e452837944e173a91fa879927ba5394
   const items = fs.readdirSync(dir);
   
   items.forEach(item => {
@@ -81,9 +97,12 @@ function scanDirectoryRecursive(dir, year, subject) {
       } catch (err) {
         console.error(`Error reading file ${itemPath}:`, err.message);
       }
+<<<<<<< HEAD
     } else if (stat.isDirectory()) {
       // Recursively scan subdirectories (Notes, Practicals, PYQs, Reference_Books)
       scanDirectoryRecursive(itemPath, year, subject);
+=======
+>>>>>>> f47f141c0e452837944e173a91fa879927ba5394
     }
   });
 }
