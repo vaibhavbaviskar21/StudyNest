@@ -22,6 +22,15 @@ These amazing students have shared the most valuable resources with the communit
 
 <div align="center">
 
+<<<<<<< HEAD
+<img src="https://github.com/Tejas-Santosh-Nalawade.png" width="120" height="120" style="border-radius: 50%;" alt="Tejas-Santosh-Nalawade"/>
+
+**[@Tejas-Santosh-Nalawade](https://github.com/Tejas-Santosh-Nalawade)**
+
+*13 Contributions across 3 subject(s)*
+
+*Years: SE, BE*
+=======
 <img src="https://github.com/Community.png" width="120" height="120" style="border-radius: 50%;" alt="Community"/>
 
 **[@Community](https://github.com/Community)**
@@ -29,6 +38,7 @@ These amazing students have shared the most valuable resources with the communit
 *2 Contributions across 1 subject(s)*
 
 *Years: SE*
+>>>>>>> f47f141c0e452837944e173a91fa879927ba5394
 
 </div>
 

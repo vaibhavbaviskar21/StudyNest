@@ -10,7 +10,11 @@ Welcome to the StudyNest Leaderboard! This page automatically tracks all contrib
 
 | Rank | Contributor | Total Contributions | Subjects Contributed | Year Coverage |
 |------|-------------|---------------------|----------------------|---------------|
+<<<<<<< HEAD
+| 🥇 | [@Tejas-Santosh-Nalawade](https://github.com/Tejas-Santosh-Nalawade) | 13 | 3 | SE, BE |
+=======
 | 🥇 | [@Community](https://github.com/Community) | 2 | 1 | SE |
+>>>>>>> f47f141c0e452837944e173a91fa879927ba5394
 
 ---
 
@@ -20,7 +24,17 @@ Welcome to the StudyNest Leaderboard! This page automatically tracks all contrib
 
 | Contributor | Contributions |
 |-------------|---------------|
+<<<<<<< HEAD
+| [@Tejas-Santosh-Nalawade](https://github.com/Tejas-Santosh-Nalawade) | 3 |
+
+### BE (Final Year)
+
+| Contributor | Contributions |
+|-------------|---------------|
+| [@Tejas-Santosh-Nalawade](https://github.com/Tejas-Santosh-Nalawade) | 10 |
+=======
 | [@Community](https://github.com/Community) | 2 |
+>>>>>>> f47f141c0e452837944e173a91fa879927ba5394
 
 ---
 

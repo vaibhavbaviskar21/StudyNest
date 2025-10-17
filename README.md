@@ -1,3 +1,129 @@
+<div align="center"># 📚 StudyNest - SPPU Computer Engineering Resource Hub<div align="center">
+
+
+
+<!-- Banner -->
+
+<img src="assets/Banner/HF2025-EmailHeader.png" alt="StudyNest Banner" width="100%">
+
+<div align="center"># 📘 StudyNest – Your Academic Companion
+
+# 📚 StudyNest
+
+### *Your Ultimate SPPU Computer Engineering Resource Hub*
+
+
+
+[![SPPU](https://img.shields.io/badge/SPPU-Computer_Engineering-0066cc?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.sppune.ac.in/)![StudyNest Banner](https://img.shields.io/badge/SPPU-Computer_Engineering-blue?style=for-the-badge)![Contributors](https://img.shields.io/github/contributors/acesdit/StudyNest?style=for-the-badge)
+
+[![Semesters](https://img.shields.io/badge/Semesters-8-00cc66?style=for-the-badge&logo=bookstack&logoColor=white)](#-repository-structure)
+
+[![Subjects](https://img.shields.io/badge/Subjects-66-ff9933?style=for-the-badge&logo=read-the-docs&logoColor=white)](#-repository-structure)![Semesters](https://img.shields.io/badge/Semesters-8-green?style=for-the-badge)![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
+
+[![Contributors](https://img.shields.io/badge/Contributors-Welcome-ff3366?style=for-the-badge&logo=github&logoColor=white)](CONTRIBUTING.md)
+
+[![License](https://img.shields.io/badge/License-MIT-ffcc00?style=for-the-badge&logo=open-source-initiative&logoColor=black)](LICENSE)![Subjects](https://img.shields.io/badge/Subjects-66-orange?style=for-the-badge)![Stars](https://img.shields.io/github/stars/acesdit/StudyNest?style=for-the-badge)
+
+
+
+**🎓 By Students, For Students • Study Smarter, Score Higher • Build Your Legacy**![Contributors](https://img.shields.io/badge/Contributors-Welcome-red?style=for-the-badge)
+
+
+
+[📖 Quick Start](#-quick-start) • [🤝 Contribute](#-how-to-contribute) • [🏆 Hall of Fame](HallOfFame/README.md) • [📊 Leaderboard](Leaderboard/README.md) • [📚 Guidelines](CONTRIBUTING.md)**A collaborative repository for SPPU students to study smarter and score higher**
+
+
+
+---**Your one-stop destination for SPPU Computer Engineering study materials!**
+
+
+
+</div>[📚 Browse Resources](#-folder-structure) • [🤝 Contribute](#-how-to-contribute) • [🏆 Hall of Fame](HallOfFame/README.md) • [📖 Guidelines](CONTRIBUTING.md)
+
+
+
+## 🌟 Why StudyNest?[📖 How to Use](#-how-to-use) • [🤝 Contribute](#-how-to-contribute) • [🏆 Hall of Fame](HallOfFame/README.md) • [📊 Leaderboard](Leaderboard/README.md)
+
+
+
+<table></div>
+
+<tr>
+
+<td width="33%" align="center"></div>
+
+<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60"/>
+
+<h3>📚 Complete Coverage</h3>---
+
+<p><b>66 subjects</b> across <b>8 semesters</b> organized exactly as per SPPU syllabus</p>
+
+</td>---
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/000000/google-cloud.png" width="60"/>## 🎯 What is StudyNest?
+
+<h3>☁️ Easy Access</h3>
+
+<p>All resources on <b>Google Drive</b> - no downloads needed, access anytime!</p>## 📚 What is StudyNest?
+
+</td>
+
+<td width="33%" align="center">StudyNest is your one-stop destination for **semester-wise and subject-wise** academic resources organized for **SPPU (Savitribai Phule Pune University)** students. Get access to:
+
+<img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="60"/>
+
+<h3>🏆 Get Recognized</h3>StudyNest is a collaborative platform where SPPU Computer Engineering students can:
+
+<p>Contribute and get featured in our <b>Hall of Fame</b> with your GitHub profile!</p>
+
+</td>- 📝 Access **notes, PYQs, practicals, and reference books**- 📝 **Notes** - Handwritten, typed, and summarized versions
+
+</tr>
+
+</table>- 🎓 Find **semester-wise organized resources** (FE to BE)- 📄 **PYQs** - Previous Year Questions (Last 5+ years)
+
+
+
+---- 🤝 **Contribute** and help fellow students- 🧪 **Practicals** - Lab files, viva questions, and experiment guides
+
+
+
+## 📚 What You'll Find Here- 🏆 Get **recognized** in our Hall of Fame- 💡 **Study Tips** - High-scoring patterns and exam strategies
+
+
+
+<div align="center">- 💼 Access **career resources** (internships, interviews, resumes)- 🎥 **Video Playlists** - Quick concept learning from YouTube
+
+
+
+| 📁 Resource Type | 📝 Description |- 📊 **Formula Sheets** - Quick revision sheets and cheat sheets
+
+|:---:|---|
+
+| **📖 Notes** | Unit-wise notes, formula sheets, concept diagrams, revision notes |---
+
+| **📝 PYQs** | Previous Year Question papers from last 5 years with solutions |
+
+| **🧪 Practicals** | Complete practical files, lab manuals, code files, circuit diagrams |> **Created by students, for students** - Help others learn while building your portfolio! ❤️
+
+| **📚 Reference Books** | Recommended textbooks, e-books, YouTube playlists, study materials |
+
+## 🗂️ Repository Structure
+
+</div>
+
+---
+
+---
+
+### 📘 First Year (FE) - Foundation Building
+
+## 🗂️ Repository Structure
+
+## 🗂️ Folder Structure
+
 <div align="center">
 
 # 📚 StudyNest - SPPU Computer Engineering Resource Hub
@@ -16,9 +142,9 @@
 
 [📖 Quick Start](#-quick-start) • [🤝 Contribute](#-how-to-contribute) • [🏆 Hall of Fame](HallOfFame/README.md) • [📊 Leaderboard](Leaderboard/README.md) • [📚 Guidelines](CONTRIBUTING.md)
 
-</div>
+- 🏆 [Competitive Programming](Extras/Competitive_Programming/)   ```
 
----
+### 📤 **Step 1: Upload to Google Drive**
 
 ## 🌟 Why StudyNest?
 
@@ -56,9 +182,9 @@ StudyNest is a collaborative platform where SPPU Computer Engineering students c
 - 🎥 **Video Playlists** - Quick concept learning from YouTube
 - 📊 **Formula Sheets** - Quick revision sheets and cheat sheets
 
-> **Created by students, for students** - Help others learn while building your portfolio! ❤️
+3. Right-click → **Share** → Set to:
 
----
+   - **"Anyone with the link can view"**- 📊 [Career Guidance](Extras/Career_Guidance/)   ```bash
 
 ## 🗂️ Repository Structure
 
@@ -104,7 +230,7 @@ StudyNest is a collaborative platform where SPPU Computer Engineering students c
 <a href="FE/Semester_1">📁 Semester 1</a> • <a href="FE/Semester_2">📁 Semester 2</a>
 </details>
 
----
+### **For Students:**4. **Update the subject README.md**
 
 ### 💻 Second Year (SE) - Programming & Hardware
 
@@ -238,7 +364,7 @@ StudyNest is a collaborative platform where SPPU Computer Engineering students c
 
 </div>
 
----
+<div align="center">
 
 ## 🎯 Extras - Beyond Academics
 
@@ -276,9 +402,7 @@ StudyNest is a collaborative platform where SPPU Computer Engineering students c
 4️⃣ Submit Pull Request → Get recognized in Hall of Fame! 🏆
 ```
 
----
 
-## 🤝 How to Contribute
 
 <table>
 <tr>
@@ -370,7 +494,9 @@ Top contributors get featured in our [🏆 Hall of Fame](HallOfFame/README.md)
 **Contributing Format:**
 
 ```markdown
+
 **Contributor:** YourGitHubUsername
+
 ```
 
 </div>
@@ -415,7 +541,9 @@ Top contributors get featured in our [🏆 Hall of Fame](HallOfFame/README.md)
 
 </div>
 
----
+### 📊 Leaderboard
+
+Complete ranking of all contributors with:---
 
 ## 🤔 Need Help?
 
