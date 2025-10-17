@@ -1,27 +1,58 @@
 <div align="center">
 
-# 📘 StudyNest – Your Academic Companion
+# 📚 StudyNest - SPPU Computer Engineering Resource Hub
 
-![Contributors](https://img.shields.io/github/contributors/acesdit/StudyNest?style=for-the-badge)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/acesdit/StudyNest?style=for-the-badge)
+<img src="assets/Banner/HF2025-EmailHeader.png" alt="StudyNest Banner" width="100%">
 
-**A collaborative repository for SPPU students to study smarter and score higher**
+### *Your Ultimate SPPU Computer Engineering Resource Hub*
 
-[📚 Browse Resources](#-folder-structure) • [🤝 Contribute](#-how-to-contribute) • [🏆 Hall of Fame](HallOfFame/README.md) • [📖 Guidelines](CONTRIBUTING.md)
+[![SPPU](https://img.shields.io/badge/SPPU-Computer_Engineering-0066cc?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.sppune.ac.in/)
+[![Semesters](https://img.shields.io/badge/Semesters-8-00cc66?style=for-the-badge&logo=bookstack&logoColor=white)](#-repository-structure)
+[![Subjects](https://img.shields.io/badge/Subjects-66-ff9933?style=for-the-badge&logo=read-the-docs&logoColor=white)](#-repository-structure)
+[![Contributors](https://img.shields.io/badge/Contributors-Welcome-ff3366?style=for-the-badge&logo=github&logoColor=white)](CONTRIBUTING.md)
+[![License](https://img.shields.io/badge/License-MIT-ffcc00?style=for-the-badge&logo=open-source-initiative&logoColor=black)](LICENSE)
+
+**🎓 By Students, For Students • Study Smarter, Score Higher • Build Your Legacy**
+
+[📖 Quick Start](#-quick-start) • [🤝 Contribute](#-how-to-contribute) • [🏆 Hall of Fame](HallOfFame/README.md) • [📊 Leaderboard](Leaderboard/README.md) • [📚 Guidelines](CONTRIBUTING.md)
 
 </div>
 
 ---
 
-## 🎯 What is StudyNest?
+## 🌟 Why StudyNest?
 
-StudyNest is your one-stop destination for **semester-wise and subject-wise** academic resources organized for **SPPU (Savitribai Phule Pune University)** students. Get access to:
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60" alt="Learning Icon"/>
+<h3>📚 Complete Coverage</h3>
+<p><b>66 subjects</b> across <b>8 semesters</b> organized exactly as per SPPU syllabus</p>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/google-cloud.png" width="60" alt="Cloud Icon"/>
+<h3>☁️ Easy Access</h3>
+<p>All resources on <b>Google Drive</b> - no downloads needed, access anytime!</p>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="60" alt="Trophy Icon"/>
+<h3>🏆 Get Recognized</h3>
+<p>Contribute and get featured in our <b>Hall of Fame</b> with your GitHub profile!</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 What is StudyNest?
+
+StudyNest is a collaborative platform where SPPU Computer Engineering students can:
 
 - 📝 **Notes** - Handwritten, typed, and summarized versions
 - 📄 **PYQs** - Previous Year Questions (Last 5+ years)
 - 🧪 **Practicals** - Lab files, viva questions, and experiment guides
 - 💡 **Study Tips** - High-scoring patterns and exam strategies
+- 💼 **Career Resources** - Internships, interviews, and resume templates
 - 🎥 **Video Playlists** - Quick concept learning from YouTube
 - 📊 **Formula Sheets** - Quick revision sheets and cheat sheets
 
@@ -29,247 +60,405 @@ StudyNest is your one-stop destination for **semester-wise and subject-wise** ac
 
 ---
 
-## 🗂️ Folder Structure
+## 🗂️ Repository Structure
 
-```
-StudyNest/
-├── 📁 FE (First Year)
-│   ├── Engineering_Mathematics_I/
-│   ├── Engineering_Physics/
-│   ├── Basic_Electrical_Engineering/
-│   ├── Engineering_Chemistry/
-│   ├── Engineering_Mechanics/
-│   └── Engineering_Graphics/
-│
-├── 📁 SE (Second Year)
-│   ├── Data_Structures_and_Algorithms/
-│   ├── DBMS/
-│   ├── OOP_Java_Python/
-│   ├── Digital_Electronics/
-│   ├── Discrete_Mathematics/
-│   ├── Operating_Systems/
-│   └── Computer_Networks/
-│
-├── 📁 TE (Third Year)
-│   ├── Machine_Learning/
-│   ├── Web_Technologies/
-│   ├── Data_Science/
-│   ├── HCI/
-│   ├── Compiler_Design/
-│   ├── Software_Engineering/
-│   └── DBMS_Lab/
-│
-├── 📁 BE (Final Year)
-│   ├── Cloud_Computing/
-│   ├── AI_Deep_Learning/
-│   ├── Blockchain_Technology/
-│   ├── Big_Data_Analytics/
-│   ├── Project_Phase_I/
-│   ├── Project_Phase_II/
-│   └── Electives/
-│
-└── 📁 Extras
-    ├── Interview_Prep/
-    ├── Internship_Resources/
-    ├── Coding_Sheets/
-    ├── Study_Tips/
-    ├── Time_Table_Templates/
-    ├── Toppers_Notes/
-    └── Viva_QA/
-```
+<div align="center">
+
+### 📘 First Year (FE) - Foundation Building
+
+<table>
+<tr>
+<th width="50%">🔹 Semester 1 (7 Subjects)</th>
+<th width="50%">🔹 Semester 2 (8 Subjects)</th>
+</tr>
+<tr>
+<td>
+
+- Engineering Mathematics-I
+- Engineering Physics
+- Systems in Mechanical Engineering
+- Basic Electrical Engineering
+- Programming and Problem Solving
+- Workshop
+- Environmental Studies-I
+
+</td>
+<td>
+
+- Engineering Mathematics-II
+- Engineering Chemistry
+- Basic Electronics Engineering
+- Engineering Mechanics
+- Engineering Graphics
+- Project Based Learning
+- Environmental Studies-II
+- Physical Education
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 Browse FE Resources →</b></summary>
+<br>
+<a href="FE/Semester_1">📁 Semester 1</a> • <a href="FE/Semester_2">📁 Semester 2</a>
+</details>
 
 ---
 
-## 📚 What's Inside Each Subject Folder?
+### 💻 Second Year (SE) - Programming & Hardware
 
-Every subject folder contains a **README.md** with:
+<table>
+<tr>
+<th width="50%">🔹 Semester 3 (10 Subjects)</th>
+<th width="50%">🔹 Semester 4 (9 Subjects)</th>
+</tr>
+<tr>
+<td>
 
-### 📖 Study Resources
-- 📘 **Notes** - Google Drive links to PDF notes
-- 📄 **PYQs** - Previous year question papers (last 5 years)
-- 📊 **Formula Sheets** - Concise summaries for quick revision
-- 🎥 **Video Playlists** - Curated YouTube playlists
-- 📑 **Slides** - Lecture presentations and PPTs
+- Discrete Mathematics
+- Fundamentals of Data Structures
+- Object Oriented Programming
+- Computer Graphics
+- Digital Electronics and Logic Design
+- Lab: Data Structures
+- Lab: OOP & Graphics
+- Lab: Digital Electronics
+- Business Communication Skills
+- Humanity and Social Science
 
-### 🧪 Practical Resources
-- 🔬 **Lab Files** - Ready-to-submit practical journals
-- ❓ **Viva Questions** - Common questions with answers
-- 🧩 **Mini Projects** - Subject-related project ideas
+</td>
+<td>
 
-### 🎯 Exam Prep
-- 💡 **Study Tips** - How to prepare efficiently for SPPU exams
-- 🚀 **Marks Booster** - High-scoring patterns and key units
-- ⚠️ **Common Mistakes** - What to avoid in exams
-- 🧠 **Summary Sheets** - Last-minute revision material
+- Engineering Mathematics-III
+- Data Structures and Algorithms
+- Software Engineering
+- Microprocessor
+- Principles of Programming Languages
+- Lab: DSA
+- Lab: Microprocessor
+- Project Based Learning-II
+- Code of Conduct
 
-### 🌍 Real-World Context
-- 🎨 **Subject Wiki** - Purpose and practical applications
-- 💼 **Career Links** - How this subject helps in jobs/internships
-- 🔧 **Project Ideas** - Build something with what you learned
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 Browse SE Resources →</b></summary>
+<br>
+<a href="SE/Semester_3">📁 Semester 3</a> • <a href="SE/Semester_4">📁 Semester 4</a>
+</details>
 
 ---
 
-## 🚀 How to Use StudyNest
+### 🖥️ Third Year (TE) - Core Computer Science
 
-### Step 1: Navigate to Your Semester
-Choose your year folder: `FE/`, `SE/`, `TE/`, or `BE/`
+<table>
+<tr>
+<th width="50%">🔹 Semester 5 (9 Subjects)</th>
+<th width="50%">🔹 Semester 6 (8 Subjects)</th>
+</tr>
+<tr>
+<td>
 
-### Step 2: Open Your Subject
-Find the subject you need (e.g., `SE/DBMS/`)
+- Database Management Systems
+- Theory of Computation
+- Systems Programming and Operating System
+- Computer Networks and Security
+- Elective I (IoT/HCI/Distributed Systems/SPM)
+- Lab: DBMS
+- Lab: OS and Networks
+- Lab Practice I
+- Seminar and Technical Communication
 
-### Step 3: Access Resources
-Open the subject's **README.md** to find:
-- 📚 Google Drive links to notes
-- 📄 PYQs and previous papers
-- 🧪 Practical files and viva questions
-- 💡 Study tips and exam strategies
+</td>
+<td>
 
-### Step 4: Download & Study
-Click on Google Drive links and download the resources you need!
+- Data Science and Big Data Analytics
+- Web Technology
+- Artificial Intelligence
+- Elective II (Info Security/AR-VR/Cloud/Software Modeling)
+- Internship
+- Lab: Data Science
+- Lab: Web and AI
+- Lab Practice II
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 Browse TE Resources →</b></summary>
+<br>
+<a href="TE/Semester_5">📁 Semester 5</a> • <a href="TE/Semester_6">📁 Semester 6</a>
+</details>
+
+---
+
+### 🚀 Fourth Year (BE) - Advanced Specialization
+
+<table>
+<tr>
+<th width="50%">🔹 Semester 7 (8 Subjects)</th>
+<th width="50%">🔹 Semester 8 (7 Subjects)</th>
+</tr>
+<tr>
+<td>
+
+- Design and Analysis of Algorithms
+- Machine Learning
+- Blockchain Technology
+- Elective III (Pervasive Computing/Multimedia/Cyber Security)
+- Elective IV (Information Retrieval/GPU/Mobile/Compilers)
+- Lab Practice III
+- Lab Practice IV
+- Project Stage I
+
+</td>
+<td>
+
+- High Performance Computing
+- Deep Learning
+- Elective V (NLP/Image Processing/SDN)
+- Elective VI (Pattern Recognition/Soft Computing/BI/Quantum)
+- Lab Practice V
+- Lab Practice VI
+- Project Stage II
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 Browse BE Resources →</b></summary>
+<br>
+<a href="BE/Semester_7">📁 Semester 7</a> • <a href="BE/Semester_8">📁 Semester 8</a>
+</details>
+
+</div>
+
+---
+
+## 🎯 Extras - Beyond Academics
+
+<div align="center">
+
+| 🎤 [Interview Prep](Extras/Interview_Preparation) | 💼 [Internships](Extras/Internship_Resources) | 📋 [Resume Templates](Extras/Resume_Templates) | 🏆 [Competitive Coding](Extras/Competitive_Programming) |
+|:---:|:---:|:---:|:---:|
+| Technical & HR prep | Opportunities & tips | Professional formats | LeetCode & Codeforces |
+
+| 🌐 [Online Courses](Extras/Online_Courses) | 🎓 [Scholarships](Extras/Scholarships_Opportunities) | 📊 [Career Guidance](Extras/Career_Guidance) |
+|:---:|:---:|:---:|
+| Certifications & MOOCs | Financial aid & grants | Career paths & industry insights |
+
+</div>
+
+---
+
+## 🚀 Quick Start
+
+### For Students:
+
+```bash
+1️⃣ Navigate to your year → FE / SE / TE / BE
+2️⃣ Select your semester → Semester_1 / Semester_2 / etc.
+3️⃣ Choose your subject → Click on folder
+4️⃣ Access resources → Notes / PYQs / Practicals / Reference_Books
+```
+
+### For Contributors:
+
+```bash
+1️⃣ Upload to Google Drive → Make shareable link
+2️⃣ Fork this repository → Click "Fork" button
+3️⃣ Add your resource link → In subject's folder
+4️⃣ Submit Pull Request → Get recognized in Hall of Fame! 🏆
+```
 
 ---
 
 ## 🤝 How to Contribute
 
-We welcome contributions from all students! Here's how you can help:
+<table>
+<tr>
+<td width="50%">
 
-### Option 1: Add Notes/PYQs/Practicals
+### 📤 Step 1: Upload to Google Drive
 
-1. **Fork this repository**
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/StudyNest.git
-   cd StudyNest
-   ```
+1. Organize your files (by units/topics/year)
+2. Upload to **Google Drive**
+3. Right-click → **Share** → Set to:
+   - **"Anyone with the link can view"**
+4. Copy the shareable link 🔗
 
-2. **Navigate to the subject folder**
-   ```bash
-   cd SE/DBMS/  # Example: Second Year DBMS
-   ```
+</td>
+<td width="50%">
 
-3. **Upload your files to Google Drive**
-   - Create a shareable link (Anyone with the link can view)
-   - Organize files clearly (e.g., "Unit 1 Notes.pdf")
+### 📝 Step 2: Add to StudyNest
 
-4. **Update the subject README.md**
-   Add your resource with this format:
-   ```markdown
-   ### 📚 Notes
-   - [Unit 1 - Introduction to DBMS](https://drive.google.com/your-link)
-   **Contributor:** YourGitHubUsername
-   ```
+1. **Fork** this repository
+2. Navigate to subject folder
+3. Add link in this format:
 
-5. **Commit and create PR**
-   ```bash
-   git add .
-   git commit -m "Add: DBMS Unit 1 Notes"
-   git push origin main
-   ```
+```markdown
+- [📘 Unit 1 - Topic](link)  
+  **Contributor:** YourUsername
+```
 
-### Option 2: Create New Subject Folder
+4. Submit **Pull Request**
 
-If a subject doesn't exist:
+</td>
+</tr>
+</table>
 
-1. Create the folder: `mkdir -p TE/Machine_Learning`
-2. Copy the template: `cp Templates/SubjectTemplate.md TE/Machine_Learning/README.md`
-3. Fill in the details with your resources
-4. Add `**Contributor:** YourGitHubUsername`
-5. Submit a PR!
+<div align="center">
 
-### 📋 Contribution Format (Important!)
+### ✨ Your Contribution Matters!
 
-To get recognized on the leaderboard and Hall of Fame, **always include**:
+Every note, PYQ, or practical you share helps **hundreds of juniors**!  
+Top contributors get featured in our [🏆 Hall of Fame](HallOfFame/README.md)
+
+[📚 Read Detailed Guidelines →](CONTRIBUTING.md)
+
+</div>
+
+---
+
+## 📊 Stats at a Glance
+
+<div align="center">
+
+| 📈 Metric | 📊 Count |
+|:---:|:---:|
+| **Total Semesters** | 8 |
+| **Total Subjects** | 66 |
+| **Resource Folders** | 264 |
+| **Years Covered** | FE → SE → TE → BE |
+
+</div>
+
+---
+
+## 🏆 Recognition System
+
+<div align="center">
+
+### 🌟 Get Featured!
+
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>🏆 Hall of Fame</h3>
+<p>Top 10 contributors with:<br>
+✨ GitHub profile picture<br>
+✨ Total contributions<br>
+✨ Special badges</p>
+<a href="HallOfFame/README.md">View Hall of Fame →</a>
+</td>
+<td width="50%" align="center">
+<h3>📊 Leaderboard</h3>
+<p>Complete ranking of all contributors with:<br>
+📈 Contribution count<br>
+🥇 Rank<br>
+🔗 GitHub profile link</p>
+<a href="Leaderboard/README.md">View Leaderboard →</a>
+</td>
+</tr>
+</table>
+
+**Contributing Format:**
 
 ```markdown
 **Contributor:** YourGitHubUsername
 ```
 
-This line helps our automation track your contributions!
+</div>
 
 ---
 
-## 📝 Adding Google Drive Links
-
-### Step-by-Step Guide:
-
-1. **Upload files to Google Drive**
-   - Create a folder for your subject (e.g., "DBMS Notes")
-   - Upload PDF files organized by units
-
-2. **Make files shareable**
-   - Right-click on file/folder → Share
-   - Change to "Anyone with the link can view"
-   - Copy the link
-
-3. **Add link to README**
-   ```markdown
-   - [📘 Unit 1 Notes](https://drive.google.com/file/d/YOUR_FILE_ID/view)
-   **Contributor:** YourUsername
-   ```
-
-4. **Test the link**
-   - Open in incognito mode to verify access
-   - Ensure anyone can view without permission requests
-
-### ✅ Best Practices for Google Drive Links:
-
-- ✅ Use **folders** for organizing multiple files
-- ✅ Name files clearly (e.g., "DBMS_Unit1_ER_Model.pdf")
-- ✅ Set to "Anyone with the link" (not restricted)
-- ✅ Avoid uploading copyrighted textbooks (share notes instead)
-- ✅ Keep files organized by units/topics
-
----
-
-## 🏆 Recognition & Leaderboard
-
-Every contribution is **automatically tracked**! When your PR is merged:
-
-- ✅ Your name appears on the [Leaderboard](Leaderboard/README.md)
-- ✅ Top contributors featured in [Hall of Fame](HallOfFame/README.md)
-- ✅ Your GitHub profile picture displayed
-- ✅ Contribution count updated automatically
-
-**How it works:** Our automation scans for `**Contributor:** YourUsername` and updates rankings within 2-3 minutes of PR merge!
-
----
-
-## 📊 Contribution Rules
-
-### ✅ DO:
-- Upload **your own notes** or properly attributed content
-- Include `**Contributor:** YourUsername` in README
-- Test Google Drive links before submitting
-- Organize files clearly (by units/topics)
-- Follow the subject README template
-
-### ❌ DON'T:
-- Upload copyrighted textbooks
-- Share pirated materials
-- Submit broken/invalid links
-- Claim others' work as your own
-- Upload duplicate content
-
-**Full guidelines:** [CONTRIBUTING.md](CONTRIBUTING.md)
-
----
-
-## 📞 Need Help?
-
-- 📖 Read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines
-- 💬 [Open a Discussion](https://github.com/acesdit/StudyNest/discussions) for questions
-- 🐛 [Report Issues](https://github.com/acesdit/StudyNest/issues) for problems
-- 🏆 Check [Hall of Fame](HallOfFame/README.md) for top contributors
-
----
+## 📋 Contribution Guidelines
 
 <div align="center">
 
-**❤️ Created by Students, for Students**
+### ✅ **DO:**
 
-> "Study smart, stay consistent, and help others learn — that's real success."
+✔️ Upload clear, readable notes  
+✔️ Provide accurate PYQs with year  
+✔️ Share complete practical files  
+✔️ Add proper descriptions  
+✔️ Follow the format
 
-⭐ Star this repo • 🍴 Fork it • 🤝 Contribute
+### ❌ **DON'T:**
 
-**Made with ❤️ for SPPU Students**
+❌ Upload copyrighted material  
+❌ Share low-quality scans  
+❌ Add broken/expired links  
+❌ Upload irrelevant content
+
+</div>
+
+---
+
+## 💡 Features
+
+<div align="center">
+
+| Feature | Description |
+|:---:|---|
+| 📁 **Semester-wise** | Clear separation by semesters (1-8) |
+| 🔬 **Lab Support** | Dedicated folders for all lab subjects |
+| 🎯 **Electives** | All elective combinations covered |
+| ☁️ **Google Drive** | Free unlimited storage |
+| 🤖 **Auto Recognition** | GitHub Actions powered leaderboard |
+| 📚 **Templates** | Sample formats for contributions |
+
+</div>
+
+---
+
+## 🤔 Need Help?
+
+<div align="center">
+
+| 📧 | 💬 | 📖 |
+|:---:|:---:|:---:|
+| [Create an Issue](../../issues) | [Start Discussion](../../discussions) | [Read Guidelines](CONTRIBUTING.md) |
+
+</div>
+
+---
+
+## 📜 License
+
+<div align="center">
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+**Note:** Contributors are responsible for ensuring they have the right to share uploaded content.  
+Do not upload copyrighted material without permission.
+
+</div>
+
+---
+
+## 🙏 Acknowledgments
+
+<div align="center">
+
+Special thanks to all contributors who make this repository valuable for SPPU students! 💙
+
+**Made with ❤️ for SPPU Computer Engineering Students**
+
+### 🌟 Star this repository if you find it helpful! 🌟
+
+[![GitHub stars](https://img.shields.io/github/stars/acesdit/StudyNest?style=social)](https://github.com/acesdit/StudyNest/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/acesdit/StudyNest?style=social)](https://github.com/acesdit/StudyNest/network/members)
+
+---
+
+<img src="https://img.icons8.com/fluency/48/000000/open-book.png" alt="Book Icon"/> **Happy Learning!** <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" alt="Graduation Cap"/>
+
+[⬆️ Back to Top](#-studynest---sppu-computer-engineering-resource-hub)
 
 </div>
