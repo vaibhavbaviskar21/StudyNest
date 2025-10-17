@@ -1,0 +1,1 @@
+1. OSI Model 2. TCP vs UDP 3. IP addressing
