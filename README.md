@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 📚 StudyNest - SPPU Computer Engineering Resource Hub
@@ -17,9 +16,9 @@
 
 [📖 Quick Start](#-quick-start) • [🤝 Contribute](#-how-to-contribute) • [🏆 Hall of Fame](HallOfFame/README.md) • [📊 Leaderboard](Leaderboard/README.md) • [📚 Guidelines](CONTRIBUTING.md)
 
-- 🏆 [Competitive Programming](Extras/Competitive_Programming/)   ```
+</div>
 
-### 📤 **Step 1: Upload to Google Drive**
+---
 
 ## 🌟 Why StudyNest?
 
@@ -57,9 +56,9 @@ StudyNest is a collaborative platform where SPPU Computer Engineering students c
 - 🎥 **Video Playlists** - Quick concept learning from YouTube
 - 📊 **Formula Sheets** - Quick revision sheets and cheat sheets
 
-3. Right-click → **Share** → Set to:
+> **Created by students, for students** - Help others learn while building your portfolio! ❤️
 
-   - **"Anyone with the link can view"**- 📊 [Career Guidance](Extras/Career_Guidance/)   ```bash
+---
 
 ## 🗂️ Repository Structure
 
@@ -104,8 +103,6 @@ StudyNest is a collaborative platform where SPPU Computer Engineering students c
 <br>
 <a href="FE/Semester_1">📁 Semester 1</a> • <a href="FE/Semester_2">📁 Semester 2</a>
 </details>
-
-### **For Students:**4. **Update the subject README.md**
 
 ### 💻 Second Year (SE) - Programming & Hardware
 
@@ -277,7 +274,9 @@ StudyNest is a collaborative platform where SPPU Computer Engineering students c
 4️⃣ Submit Pull Request → Get recognized in Hall of Fame! 🏆
 ```
 
+---
 
+## 🤝 How to Contribute
 
 <table>
 <tr>
@@ -382,20 +381,109 @@ Top contributors get featured in our [🏆 Hall of Fame](HallOfFame/README.md)
 
 <div align="center">
 
+### Before You Contribute
+
+Please ensure your contributions are helpful, accurate, and follow our quality standards. Every resource you share impacts hundreds of students!
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### ✅ **DO:**
 
-✔️ Upload clear, readable notes  
-✔️ Provide accurate PYQs with year  
-✔️ Share complete practical files  
-✔️ Add proper descriptions  
-✔️ Follow the format
+#### 📝 **Quality Content**
+- ✔️ Upload **clear, readable notes** with proper formatting
+- ✔️ Provide **well-organized** content (by units/topics)
+- ✔️ Include **diagrams, flowcharts, and examples** where applicable
+- ✔️ Share **handwritten notes** only if clearly legible
+
+#### 📄 **Accurate Information**
+- ✔️ Provide **accurate PYQs** with the exam year mentioned
+- ✔️ Verify **solutions** are correct before sharing
+- ✔️ Include **marking schemes** if available
+- ✔️ Add **source attribution** when required
+
+#### 🧪 **Complete Practicals**
+- ✔️ Share **complete practical files** with all experiments
+- ✔️ Include **code with comments** and explanations
+- ✔️ Add **output screenshots** for verification
+- ✔️ Provide **viva questions and answers**
+
+#### 📌 **Proper Organization**
+- ✔️ Follow the **established folder structure**
+- ✔️ Use **descriptive filenames** (e.g., "Unit_1_ER_Model.pdf")
+- ✔️ Add your **GitHub username** as contributor
+- ✔️ Write **meaningful commit messages**
+
+#### 🔗 **Valid Links**
+- ✔️ Test **Google Drive links** before submitting
+- ✔️ Set permissions to **"Anyone with the link can view"**
+- ✔️ Use **folder links** for multiple files
+- ✔️ Ensure links are **permanent**, not temporary
+
+</td>
+<td width="50%" valign="top">
 
 ### ❌ **DON'T:**
 
-❌ Upload copyrighted material  
-❌ Share low-quality scans  
-❌ Add broken/expired links  
-❌ Upload irrelevant content
+#### 🚫 **Copyright Violations**
+- ❌ Upload **copyrighted textbooks** without permission
+- ❌ Share **paid course materials** or premium content
+- ❌ Distribute **commercial software** or licenses
+- ❌ Violate **intellectual property rights**
+
+#### 🚫 **Low-Quality Content**
+- ❌ Share **blurry or illegible scans**
+- ❌ Upload **incomplete or partial** resources
+- ❌ Add **unverified or incorrect** information
+- ❌ Submit **duplicate content** already present
+
+#### 🚫 **Broken Resources**
+- ❌ Add **expired or broken links**
+- ❌ Share **restricted access** files (permission-required)
+- ❌ Upload **corrupted or damaged** files
+- ❌ Submit **wrong subject/semester** materials
+
+#### 🚫 **Irrelevant Content**
+- ❌ Upload **off-topic** or unrelated materials
+- ❌ Share **personal information** or private data
+- ❌ Add **spam or promotional** content
+- ❌ Include **offensive or inappropriate** material
+
+#### 🚫 **Poor Practices**
+- ❌ Claim **others' work** as your own
+- ❌ Submit without **testing your links**
+- ❌ Ignore **naming conventions** and structure
+- ❌ Skip adding **your contributor tag**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📖 **Quality Checklist Before Submitting**
+
+| ✓ | Checklist Item |
+|:---:|---|
+| ☐ | Content is clear, accurate, and well-organized |
+| ☐ | Google Drive link is tested and publicly accessible |
+| ☐ | File names are descriptive and follow naming conventions |
+| ☐ | Added `**Contributor:** YourGitHubUsername` in README |
+| ☐ | Content is original or properly attributed |
+| ☐ | No copyrighted or paid materials included |
+| ☐ | Checked for duplicate content in the repository |
+| ☐ | Pull request has a clear, descriptive title |
+
+### 💡 **Pro Tips for Great Contributions**
+
+🌟 **Make it Student-Friendly** - Organize content in a way that's easy to understand and navigate  
+🌟 **Add Value** - Include additional resources like video links, reference articles, or quick tips  
+🌟 **Stay Updated** - Ensure content matches the current SPPU syllabus  
+🌟 **Be Consistent** - Follow the same format as existing contributions  
+🌟 **Engage** - Respond to comments or issues related to your contributions  
 
 </div>
 
@@ -416,9 +504,7 @@ Top contributors get featured in our [🏆 Hall of Fame](HallOfFame/README.md)
 
 </div>
 
-### 📊 Leaderboard
-
-Complete ranking of all contributors with:---
+---
 
 ## 🤔 Need Help?
 
