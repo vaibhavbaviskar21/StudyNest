@@ -1,0 +1,1 @@
+1. ER Diagram 2. Normalization
