@@ -23,8 +23,8 @@
   **Contributor:** *Awaiting contribution*
 
 ### 📄 Previous Year Questions (PYQs)
-- [📝 Mid Sem 2024](https://drive.google.com/...)  
-  **Contributor:** *Awaiting contribution*
+- [📝 Mid Sem 2024](https://drive.google.com/file/d/1qJPpmjGPmjcbrJH9iyQfhCXPrAFpV4Pm/view?usp=sharing)  
+  **Contributor:** *Mansi13-6*
   
 - [📝 End Sem 2023](https://drive.google.com/...)  
   **Contributor:** *Awaiting contribution*
