@@ -7,8 +7,8 @@
 ## 📚 Study Resources
 
 ### 📖 Notes
-- [📘 Unit 1 - Introduction to DBMS](https://drive.google.com/...)  
-  **Contributor:** *Awaiting contribution*
+- [📘 Unit 1 - Introduction to DBMS](https://drive.google.com/file/d/13MyOJmgY1rGO2G3IghgqhlYYYKUidkof/view?usp=sharing)  
+  **Contributor:** *Teajs-Santosh-Nalawade*
   
 - [📘 Unit 2 - ER Model & Relational Model](https://drive.google.com/...)  
   **Contributor:** *Awaiting contribution*
