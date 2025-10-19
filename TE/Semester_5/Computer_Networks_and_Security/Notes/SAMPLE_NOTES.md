@@ -15,4 +15,4 @@ This is a placeholder for notes. Students can add:
 5. Add your GitHub username as contributor
 
 ---
-**Contributor:** YourGitHubUsername
+**Contributor:** Mansi13-6
