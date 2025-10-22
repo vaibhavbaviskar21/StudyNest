@@ -1,17 +1,17 @@
 *Contributor:* sejalnarkhede
 
-# Insem
+# Endsem
 
 # 📝 Previous Year Questions (PYQs)
 
 This is a placeholder for PYQs. Students can add:
-- InSemester exam papers
+- EndSemester exam papers
 - Question papers from last 3-5 years
 - Solutions to PYQs (if available)
 - Important questions list
 
 *How to access:*
--> Format: [📝 Indsem Sem 2019 pattern](https://drive.google.com/drive/folders/1MT168G1aBVToLK8Jm-Pz7Y19IJMQZJzU?usp=drive_link)
+-> Format: [📝 Endsem Sem 2019 pattern](https://drive.google.com/drive/folders/1wAfnhq_GMxx2tE_dCS4D6lYi4U2Ut6AG?usp=sharing)
 
 ## 🤝 Contributing
 
