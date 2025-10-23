@@ -15,7 +15,7 @@ All available question papers have been compiled into a single Google Drive fold
 
 Click the link below to open the Google Drive folder containing all the papers.
 
-### ➡️ [Open Google Drive Folder for All DS Papers](httpsS://drive.google.com/drive/folders/YOUR_FOLDER_LINK_HERE)
+### ➡️ [Open Google Drive Folder for All DS Papers](https://drive.google.com/drive/folders/1hwcXS1AeH4mPoT8d1jxJDRX2hmdTf0CQ?usp=drive_link)
 
 Inside the folder, you will find PDF files, usually named by the year and exam type (e.g., `DS_Insem_2024.pdf`).
 
