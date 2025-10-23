@@ -11,7 +11,7 @@ This page contains previous year question papers and related study materials to 
 
 | Exam Type | Year | Link | Contributor |
 |------------|------|------|-------------|
-| 📄 End Semester | 2024–2025 | [📝 Engineering Physics Paper (2024–2025)]([https://drive.google.com/...](https://drive.google.com/file/d/1vqzymd7A5VKctkjuvkmXAFpft0dzxEpo/view?usp=drive_link)) | Pratham00007 |
+| 📄 End Semester | 2024–2025 | [📝 Engineering Physics Paper (2024–2025)](https://drive.google.com/file/d/1vqzymd7A5VKctkjuvkmXAFpft0dzxEpo/view?usp=drive_link) | Pratham00007 |
 
 > 💡 If available, you can also include **solutions**, **important questions**, or **marking schemes**.
 
