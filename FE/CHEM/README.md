@@ -1,4 +1,4 @@
-# First Year Engineering (FE) Maths - Previous Year Questions (PYQ)
+# First Year Engineering (FE) Chemistry - Previous Year Questions (PYQ)
 
 ## Description
 
