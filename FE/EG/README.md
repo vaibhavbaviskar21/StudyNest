@@ -3,17 +3,24 @@
 ## Description
 
 This repository provides a collection of Previous Year Question (PYQ) papers for the First Year Engineering (FE) EG course. The goal is to help students prepare for their examinations by practicing with past papers.
+# First Year Engineering (FE) Graphics - Previous Year Questions (PYQ)
+
+## Description
+
+This repository provides a collection of Previous Year Question (PYQ) papers for the First Year Engineering (FE) Mathematics course. The goal is to help students prepare for their examinations by practicing with past papers.
 
 ## Access Link
 
 All collected question papers are available at the following Google Drive link:
 
 * **FE EG PYQ Collection:** [Click Here to Access Papers](https://drive.google.com/drive/folders/1x3XxI_hoXtnYO6VONe5PTp2mN9X-DtzO?usp=drive_link)
+* *FE Graphics PYQ Collection:* [Click Here to Access Papers](https://drive.google.com/drive/folders/1eR_7I8wELuUMxwaEm0h8YHbaqoJMJR5l?usp=sharing)
 
 
 ## Contributor
 
 * **Vaishnavi Phadatare**
+* *Soham Malpure*
 
 ## Disclaimer
 
