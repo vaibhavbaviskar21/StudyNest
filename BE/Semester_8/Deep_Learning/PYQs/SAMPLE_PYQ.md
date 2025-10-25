@@ -1,14 +1,16 @@
-# Machine Learning: Previous Year Questions (PYQs)
+# Deep Learning: Previous Year Questions (PYQs)
 
-## Overview 📖
+## Overview 🧠
 
-This repository/folder serves as a central hub for a curated collection of **Previous Year Questions (PYQs)** related to Machine Learning. The primary goal is to provide a resource for students, enthusiasts, and professionals preparing for exams, interviews, or just looking to test their knowledge.
+This repository/folder serves as a central hub for a curated collection of **Previous Year Questions (PYQs)** for **Deep Learning**.
+
+The primary goal is to provide a resource for students, researchers, and professionals preparing for university exams, certification tests (e.g., TensorFlow, PyTorch), or technical interviews.
 
 All files are hosted externally for easy access.
 
 ## Access the Files 🚀
 
-All question papers, notes, and solutions are maintained in a shared drive.
+All question papers, notebooks, and solutions are maintained in a shared drive.
 
 **👉 Get all files here: https://drive.google.com/drive/u/0/folders/1UvUnZFnp7Yht-Zs3R9VB7rTYaBpzAZih
 
@@ -18,18 +20,19 @@ All question papers, notes, and solutions are maintained in a shared drive.
 
 ## What's in the Drive? 📁
 
-The Drive folder is organized to make finding relevant questions as easy as possible. You will find:
+The Drive folder is organized by key topics within Deep Learning. You will find:
 
-* **/Topics**: Questions sorted by specific ML topics.
-    * `Supervised_Learning/` (Linear Regression,
-        Logistic Regression, SVM, etc.)
-    * `Unsupervised_Learning/` (K-Means, PCA, etc.)
-    * `Neural_Networks/` (ANN, CNN, RNN, etc.)
-    * `Model_Evaluation/` (Metrics, Cross-Validation, etc.)
-* **/Exams**: Questions sorted by the specific examination or university.
-    * `University_XYZ_Midterm_2023/`
-    * `Final_Exam_2022/`
-* **/Solutions** (Optional): A separate directory containing solved papers or answer keys.
+* **/Topics**: Questions sorted by specific units.
+    * `Neural_Network_Basics/` (Backpropagation, Activation Functions, Gradient Descent, etc.)
+    * `Convolutional_Networks_CNN/` (Convolutions, Pooling, Architectures like VGG, ResNet)
+    * `Sequential_Models_RNN/` (RNN, LSTM, GRU, Sequence-to-Sequence)
+    * `Transformers/` (Attention, Self-Attention, BERT, GPT, etc.)
+    * `Generative_Models/` (GANs, VAEs, Diffusion Models)
+    * `Optimization_and_Regularization/` (Adam, RMSprop, Dropout, Batch Norm)
+* **/Exams**: Full question papers sorted by the examination or university.
+    * `University_XYZ_Final_2023/`
+    * `DL_Certification_Mock_Test/`
+* **/Solutions_and_Notebooks** (Optional): Solved papers or `.ipynb` (Jupyter/Colab) notebooks with practical implementations.
 
 *(You can customize this section to match your actual folder structure in the drive.)*
 
@@ -37,14 +40,14 @@ The Drive folder is organized to make finding relevant questions as easy as poss
 
 1.  **Click the link** above to open the shared Drive folder.
 2.  **Browse** to the topic or exam you are interested in.
-3.  **Download** the files you need or add them to your own Drive.
-4.  **Practice:** Try to solve the questions on your own.
-5.  **Verify:** Check your answers against the provided solutions (if available).
+3.  **Download** the files you need (especially `.pdf` papers or `.ipynb` notebooks).
+4.  **Practice:** Try to solve the questions, both theoretical (proofs, concepts) and practical (coding).
+5.  **Verify:** Check your answers against the provided solutions.
 6.  **Identify Gaps:** Use these questions to find areas where you need more study.
 
 ## Disclaimer ⚠️
 
-The questions provided here are for **educational and practice purposes only**. They have been collected from various public sources. There is no guarantee of their accuracy, completeness, or relevance to any specific future examination. The solutions (if provided) are for reference and may contain errors. Always cross-verify with trusted academic sources.
+The questions provided here are for **educational and practice purposes only**. They have been collected from various public sources. There is no guarantee of their accuracy, completeness, or relevance to any specific future examination. The solutions (if provided) are for reference and may contain errors. Always cross-verify with trusted academic sources and official documentation.
 
 ## How to Contribute 🤝
 
