@@ -57,4 +57,4 @@ Contributions are welcome! If you have more PYQs, better solutions, or suggestio
 * (If this is a Git repo) Open an **Issue** to report an error or suggest an improvement.
 
 ---
-**Contributor:** YourGitHubUsername
+**Contributor:** bigturtle679
